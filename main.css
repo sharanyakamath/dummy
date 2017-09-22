@@ -6,6 +6,11 @@ background:#C8CBFC;
 .headings{
 font-weight:bold;
 }
+
+p.headings{
+font-size:50px;
+ text-shadow: 0 0 5px red;
+}
 .navbar {
     overflow: hidden;
     background-color: black;
@@ -150,28 +155,28 @@ img {
     opacity: 0.8;
 }
 
-.fa-facebook {
-  background: Transparent;
-  color: black;
+.fa-facebook { 
+background: Transparent;
+  color: white;
 }
 
 .fa-twitter {
    background: Transparent;
-  color: black;
+  color: white;
 }
 
 .fa-google {
   background: Transparent;
-  color: black;
+  color: white;
 }
 
 .fa-instagram {
    background: Transparent;
-  color: black;
+  color: white;
 }
 
 footer { 
     display: block;
-    float:right;
-    margin:20px;
+    background:black;
+   width:100%;
 }
